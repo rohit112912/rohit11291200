@@ -1,6 +1,5 @@
 # Hi, I'm Rohit Ghalot
-
-A passionate frontend developer from India, with a keen interest in creating intuitive and dynamic user interfaces.
+=======
 
 ###  About Me
 - I’m currently sharpening my skills in **Data Structures and Algorithms**, which are essential for building efficient and scalable applications.
@@ -20,5 +19,3 @@ A passionate frontend developer from India, with a keen interest in creating int
 ### Future Goals
 - I aspire to contribute to open-source projects, especially those that focus on frontend development and Machine Learning.
 - I’m also interested in building my portfolio with projects that combine both of these fields, such as interactive web apps with AI-driven features.
-
----
