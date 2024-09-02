@@ -9,7 +9,7 @@
 ### Technologies & Tools
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express
-- **Database:** MongoDB, SQL
+- **Database:** MongoDB
 - **Version Control:** Git, GitHub
 
 ### Hobbies & Interests
